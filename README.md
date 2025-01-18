@@ -34,4 +34,5 @@ Le projet repose sur l'utilisation d'algorithmes d'apprentissage profond pour tr
 ## Installation
 
 Pour installer les dépendances nécessaires au projet, exécutez :
+pip install -r requirements.txt
 
